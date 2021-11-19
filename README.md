@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning how to use Terraform and Github Actions
 
-📫 Reach me at: joao.almgren@ef.com
+📫 Reach me at joao.almgren@ef.com
 
 <!---
 joao-almgren-ef/joao-almgren-ef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
