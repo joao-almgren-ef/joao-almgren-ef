@@ -2,7 +2,7 @@
 
 👋 Hi, I’m @joao-almgren-ef
 
-👀 I’m interested in 3d graphics
+👀 I’m interested in 3D graphics
 
 🌱 I’m currently learning how to use Terraform and Github Actions
 
